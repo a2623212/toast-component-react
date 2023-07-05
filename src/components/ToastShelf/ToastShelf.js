@@ -10,7 +10,13 @@ function ToastShelf() {
   useEscapeKey(clearToasts);
 
   return (
-    <ol className={styles.wrapper}>
+    // aria-live="assertive"
+    <ol
+      role="region"
+      aria-live="polite"
+      aria-label="Notification"
+      className={styles.wrapper}
+    >
       {toasts.map((toast) => (
         <li key={toast.id} className={styles.toastWrapper}>
           <Toast id={toast.id} variant={toast.variant}>
