@@ -28,9 +28,9 @@
 .wrapper header img {
   position: absolute;
   right: 0;
-  bottom: 0;
+  bottom: 10px;
   display: block;
-  width: 250px;
+  width: 500px;
 }
 
 .controlsWrapper {
