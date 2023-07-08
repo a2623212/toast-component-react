@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/toast-component-react/static/css/main.88f64522.css",
-    "main.js": "/toast-component-react/static/js/main.f2e86959.js",
+    "main.css": "/toast-component-react/static/css/main.736319fb.css",
+    "main.js": "/toast-component-react/static/js/main.deea54ec.js",
     "index.html": "/toast-component-react/index.html",
-    "main.88f64522.css.map": "/toast-component-react/static/css/main.88f64522.css.map",
-    "main.f2e86959.js.map": "/toast-component-react/static/js/main.f2e86959.js.map"
+    "main.736319fb.css.map": "/toast-component-react/static/css/main.736319fb.css.map",
+    "main.deea54ec.js.map": "/toast-component-react/static/js/main.deea54ec.js.map"
   },
   "entrypoints": [
-    "static/css/main.88f64522.css",
-    "static/js/main.f2e86959.js"
+    "static/css/main.736319fb.css",
+    "static/js/main.deea54ec.js"
   ]
 }
